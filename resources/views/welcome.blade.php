@@ -32,26 +32,16 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3"></div>
-          <div class="col-sm-3">
-
-
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-            <button type="button" class="btn btn-default pull-center">จำนวนผู้เข้าร่วมถวายพระพร {{ $user }}</button> </div>
+          <div class="col-sm-3"></div>
 
             
-
-            
-
-
           	<form action="store" method="post" enctype="multipart/form-data">
             	<div class="col-sm-5">
               
-                <!-- <div class="panel-heading">
-                <a href="" class="btn btn-primary btn-xs pull-right">ข้อความถวายพระพร</a>
-                </div><br> -->
-                <br><br><br>
+                <div class="panel-heading">
+                <button type="button" class="btn btn-default pull-right">จำนวนผู้เข้าร่วมถวายพระพร {{ $user }}</button>
+                </div><br>
+                <br><br>
 
              		<center><div class="form-group">
 
