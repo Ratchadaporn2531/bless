@@ -13,5 +13,5 @@
 
 Route::get('/', 'SignController@index');
 Route::post("store", 'SignController@store');
-Route::get("show", 'SignController@show');
-Route::get("share/{id}", 'SignController@share');
+Route::get('sign', 'SignController@sign');
+Route::get('show', 'SignController@show');

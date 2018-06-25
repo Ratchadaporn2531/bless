@@ -1,0 +1,12 @@
+ body
+ {
+    background:url(../images/bg_index3.png) no-repeat top center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#submit_btn { background: url('../images/btn.png')  center no-repeat; width: 261px; height: 56px;  border: none; cursor: pointer;}
+
+

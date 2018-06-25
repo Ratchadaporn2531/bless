@@ -1,0 +1,19 @@
+
+/*box*/
+#post-box { z-index:10; width: 610px; height: 130px; padding: 55px 0 10px 30px; background: url('../images/box.png') left top no-repeat; margin: 0px 0 10px 0; background-color: #FFF5D5; position: relative; }
+	#post-box h1 { display : none; }
+	#post-box .center3 { width: 100px; font-size: 14px; line-height: 20px; color:#6c421a;}
+	#post-box .center4 input#name { width: 215px; height: 18px; padding: 2px 5px;}
+	#post-box .center4 #detail { width: 305px; height: 50px; padding: 5px; }
+	#post-box .center5 { margin-top: 13px;}
+	#post-box #f_comment_submit_btn { position: absolute; background: url('../images/btn.png') left top no-repeat; width: 115px; height: 49px; right: 50px; top: 100px; border: none; cursor: pointer;}
+	
+   
+}
+
+.image-box img {
+    width: 100%;
+    padding: 0px 0 0 0;
+}
+#submit_btn { background: url('../images/btn.png')  center no-repeat; width: 261px; height: 56px;  border: none; cursor: pointer;}
+
